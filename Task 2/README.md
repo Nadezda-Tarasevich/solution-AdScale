@@ -122,7 +122,7 @@ Global Cache: Redis Protocol
 
 
 
-###### 6\.Структура проекта
+###### 6.Структура проекта
 
 
 
@@ -132,7 +132,7 @@ Global Cache: Redis Protocol
 |bidding-service.md|Спецификация сервиса ставок с описанием API и модели данных|
 |interaction.md|Протоколы и паттерны взаимодействия между сервисами платформы.<br />|
 |api-gateway.md|Дизайн API Gateway для DSP|
-|Diagrams/|Sequences диаграммы патернов надежности|
+|Diagrams/|Sequences диаграммы патернов надежности<br />дополнительно sequences диаграмма списания бюджета|
 
 
 
